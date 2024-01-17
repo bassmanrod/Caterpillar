@@ -5,7 +5,7 @@ Directions:
 
 Open find_ports.py and verify the correct name of the file to be parsed. Make sure it resides in the same directory or modify the path.
 
-chmod +x port_numbers.py
+chmod +x find_ports.py
 
 ./find_ports.py
 
