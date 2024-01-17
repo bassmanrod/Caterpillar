@@ -1,2 +1,13 @@
 # Caterpillar
-code assignment
+code assignment using Python's regex module to parse port numbers from a file. 
+
+Directions:
+
+Open port_numbers.py and verify the correct name of the file to be parsed. Make sure it resides in the same directory or modify the path.
+
+chmod +x port_numbers.py
+
+./port_numbers.py
+
+
+
